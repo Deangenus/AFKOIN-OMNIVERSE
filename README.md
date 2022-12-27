@@ -1,14 +1,8 @@
 
 <DOCTYPE html>
- <html>
-  <bodg>
-
-
-
-Embed Video on a Web Page with Google Drive
-How to embed videos from Google drive to webpage?
-
-If you have a video uploaded to your Google Drive account and wish to open it in html web page this documentation will help you get started.
+ <head>
+  <body>
+ 
 
 
 ![photo1](https://github.com/Deangenus/ALPHA-TIERA/blob/4f8b2269a101d6118e2179dd804ad1fdf6ec5778/Alpha-Tiera-lg.png)
