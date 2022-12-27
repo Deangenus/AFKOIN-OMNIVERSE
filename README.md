@@ -21,7 +21,7 @@ If you have a video uploaded to your Google Drive account and wish to open it in
 
 
 
-![photo5](https://user-images.githubusercontent.com/929344/43912214-a3d91ab8-9bcf-11e8-8b50-555c9b39966a.png)
+![photo](https://github.com/Deangenus/ALPHA-TIERA/blob/4f8b2269a101d6118e2179dd804ad1fdf6ec5778/Alpha-Tiera-lg.png)
 ![photo6](https://user-images.githubusercontent.com/929344/43912217-a4fd8c4e-9bcf-11e8-9b8b-443870169683.png)
 
 
