@@ -15,9 +15,6 @@
 
 
 
-![image](https://github.com/Deangenus/ALPHA-TIERA/blob/4f8b2269a101d6118e2179dd804ad1fdf6ec5778/Alpha-Tiera-lg.png)
-![photo6](https://user-images.githubusercontent.com/929344/43912217-a4fd8c4e-9bcf-11e8-9b8b-443870169683.png)
-
 
 
 
