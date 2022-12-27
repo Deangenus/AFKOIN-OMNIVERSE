@@ -31,7 +31,7 @@ If you have a video uploaded to your Google Drive account and wish to open it in
 <html>
 <body>
   
-  <iframe src="url video in google drive/preview" ></iframe>
+  <iframe src="https://drive.google.com/file/d/1_LuSe7DtmDipV1j4HAFVcvaIvLpUlXC9/view?usp=drivesdk /preview" ></iframe>
   
   <!--aloow full screen add tag -->
   
