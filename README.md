@@ -25,14 +25,7 @@
 
 
   
-  <iframe src="https://drive.google.com/file/d/1_LuSe7DtmDipV1j4HAFVcvaIvLpUlXC9/view?usp=drivesdk/preview" ></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
-</body>
-</html>
 ```
 
 
