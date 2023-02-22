@@ -3,7 +3,7 @@ html
  <head>![Image](Alpha-Tiera-adv.png)
   <body>
    <div>
-    ![image]>(https://github.com/Deangenus/ALPHA-TIERA/blob/a708972297c3f87ac84914b02ffeb3b9c8f8beb4/Alpha-Tiera-sm.png)
+    ![image](https://github.com/Deangenus/ALPHA-TIERA/blob/1cb250186919a8d172c66c14640c5fe28c4a9c3f/Alpha-Tiera-adv.png))
    //audio controls>
 
  audio controls>
