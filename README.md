@@ -1,6 +1,6 @@
 html
 <!DOCTYPE html>
- <head>![My Image](Alpha-Tiera-adv.png)
+ <head>![Img](Alpha-Tiera-adv.png)
   <body>![image]>srs=.Alpha-Tiera-adv.png
    //audio controls>
 
