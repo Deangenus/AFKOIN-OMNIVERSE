@@ -1,7 +1,7 @@
 html
 <!DOCTYPE html>
- <head>![Imae](Alpha-Tiera-adv.png)
-  <body>![image[>srs=(https://github.com/Deangenus/ALPHA-TIERA/blob/a708972297c3f87ac84914b02ffeb3b9c8f8beb4/Alpha-Tiera-sm.png)
+ <head>![Image](Alpha-Tiera-adv.png)
+  <body>![image](srs=https://github.com/Deangenus/ALPHA-TIERA/blob/a708972297c3f87ac84914b02ffeb3b9c8f8beb4/Alpha-Tiera-sm.png)
    //audio controls>
 
  audio controls>
