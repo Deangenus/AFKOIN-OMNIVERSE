@@ -1,7 +1,7 @@
 html
 <!DOCTYPE html>
  <head>
-  <body>![image]>srs=https://github.com/Deangenus/ALPHA-TIERA/pearly gates
+  <body>![image](srs=https://github.com/Deangenus/ALPHA-TIERA/pearly gates)
   .png
  audio controls>
   <source src="horse.ogg" type="audio/ogg">
