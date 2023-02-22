@@ -1,7 +1,8 @@
 html
 <!DOCTYPE html>
  <head>![My Image](Alpha-Tiera-adv.png)
-  <body>![image]>srs=https:.png //audio controls>
+  <body>![image]>srs=.Alpha-Tiera-adv.png
+   //audio controls>
 
  audio controls>
   <source src="horse.ogg" type="audio/ogg">
