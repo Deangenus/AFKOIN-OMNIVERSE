@@ -1,6 +1,6 @@
 html
 <!DOCTYPE html>
- <head>![Image](Alpha-Tiera-adv.png)
+ <head>![Image]>(Alpha-Tiera-adv.png)
   <body>
    <div>
     ![img](https://github.com/Deangenus/ALPHA-TIERA/blob/1cb250186919a8d172c66c14640c5fe28c4a9c3f/Alpha-Tiera-adv.png)
