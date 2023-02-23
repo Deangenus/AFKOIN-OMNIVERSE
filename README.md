@@ -1,6 +1,6 @@
 ALPHA-TIERA
 <!DOCTYPE html>
- <head>![Image]>(https://drive.google.com/file/d/1r5GA6927170MjN92c7W5J-k7lkYHfsHB/view?usp=drivesdk )
+ <head>![Imag]>href://drive.google.com/file/d/1r5GA6927170MjN92c7W5J-k7lkYHfsHB/view?usp=drivesdk )
   <body>
    <div>
     ![img](https://github.com/Deangenus/ALPHA-TIERA/blob/1cb250186919a8d172c66c14640c5fe28c4a9c3f/Alpha-Tiera-adv.png)
