@@ -14,8 +14,7 @@ ALPHA-TIERA
 
 
 
-
-
+https://open.spotify.com/episode/2PoNEwxagQ79R5G3uyuINb?si=YVuYZn53Q06NcrISqwL52Q
 
 
 
