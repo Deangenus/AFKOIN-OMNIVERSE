@@ -10,4 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: # ['paypal.me/genusdean@gmail.com', 'bitcoin:bc1qenzpjfd9l3aurtynf878z42pk0f6h2kmz6h93e ']
+custom: # ['paypal.me/genusdean@gmail.com', 'bitcoin:bc1qenzpjfd9l3aurtynf878z42pk0f6h2kmz6h93e ' , 0x8eD31daE6025F8e9800728610c89E89556A276d1   ]
