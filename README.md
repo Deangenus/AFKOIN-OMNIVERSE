@@ -1,4 +1,4 @@
-[image] (
+[image] (Alpha tiera logo.png)
 
 
 
